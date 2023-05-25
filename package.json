@@ -1,0 +1,24 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Kostiantyn Danylenko група PE_19",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/offKosss172/dan-fe19-hw1.git"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "eslint": "^7.32.0",
+    "gulp": "^4.0.2"
+  }
+}
